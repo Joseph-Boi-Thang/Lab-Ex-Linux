@@ -1,0 +1,5 @@
+How to create a Git repository (your time machine) using git init
+How to check the status of your repository with git status
+How to create files and prepare them for commit using git add
+How to create a commit (a save point in time) with git commit
+How to view your project's history using git log
